@@ -1,1 +1,3 @@
 Adding some new text here!
+And also here!
+New edit to test git message template
